@@ -4,7 +4,7 @@ Hi! We are looking for great PHP developers to join our team. Instead of going t
 
 ## The problem
 
-Workana is built around a PHP framework and given it's a fairly large application, we have a baseline of around ~125ms. When we launched our chat, we needed a way to retrieve the current user's friends list. This endpoint (`/chat/friends`) needed to be blazing fast, as it would be called thousands of times per hour. So we removed this endpoint from our application á la *microservice*. We wrote this code (yes, this was code used in production), but it was far from perfect, and far from being testeable. Our `index.php` contains a single routine with lots of dependencies and too much knowledge.
+Workana is built around a PHP framework and given it's a fairly large application, we have a baseline of around ~125ms. When we launched our chat, we needed a way to retrieve the current user's friends list. This endpoint (`/chat/friends`) needed to be blazing fast, as it would be called thousands of times per hour. So we removed this endpoint from our application á la *microservice*. We wrote this code (yes, this was code used in production), but it was far from perfect, and far from being testable. Our `index.php` contains a single routine with lots of dependencies and too much knowledge.
 
 ## Get up and running
 
