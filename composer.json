@@ -1,0 +1,12 @@
+{
+  "name": "workana/hiring_challenge",
+  "description": "Workana Hiring Challenge",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {"app\\": "src/"}
+  },
+  "require": {
+    "ext-redis": "*",
+    "vlucas/phpdotenv": "2.2.0"
+  }
+}
