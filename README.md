@@ -1,6 +1,8 @@
 # Workana Hiring challenge
 
-Hi! We are looking for great PHP developers to join our team. Instead of going through a ~~boring~~ long interview process, we decided that code often speaks for itself. If you're up to the challenge, please take a couple of hours play with this problem and submit your solution.
+Hi!
+
+We are looking for great PHP developers to join our team. Instead of going through a ~~boring~~ long interview process, we decided that code often speaks for itself. If you're up to the challenge, please take a couple of hours play with this problem and submit your solution.
 
 ## The problem
 
