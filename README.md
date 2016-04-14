@@ -54,6 +54,6 @@ Download this repo. Code it your way. Think how would you solve this problem usi
 
 ## Submission
 
- Please don't submit Pull Requests. After you're done, please send an email to [federico@workana.com](mailto:federico@workana.com?subject=Workana%20Hiring) with the link to your fork so we can start talking =)
+ Please don't submit Pull Requests. After you're done, please send an email to [federico+hiring@workana.com](mailto:federico+hiring@workana.com?subject=Workana%20Hiring) with the link to your fork so we can start talking =)
 
 Thanks a lot and happy coding!
